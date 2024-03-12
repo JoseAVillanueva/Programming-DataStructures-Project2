@@ -1,0 +1,20 @@
+Enter file name: miniTree.txt
+
+F1: 4 7 9 11 have no children
+F2: 2 3 have no children
+F3: 2 3 4 5 6 have no children
+
+Run again (Y/N): y
+
+Enter file name: ancestor.txt
+Something went wrong, try again.
+
+Run again (Y/N): y
+
+Enter file name: ancestors.txt
+
+F1: 2 has no children
+F2: 2 3 have no children
+F3: 4 has no children
+
+Run again (Y/N): n

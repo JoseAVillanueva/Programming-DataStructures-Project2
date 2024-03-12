@@ -1,0 +1,17 @@
+Enter filename: treeroute.txt
+
+Tree 1: Path: UURL
+Tree 2: Path: UR
+
+Run again (Y/N): g
+
+Invalid input was made, please try again.
+Run again (Y/N): y
+
+Enter filename: MiniTree.txt
+
+Tree 1: Path: UUURLL
+Tree 2: Path: URR
+Tree 3: Path: UR
+
+Run again (Y/N): n
